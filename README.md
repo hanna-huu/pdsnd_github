@@ -36,4 +36,4 @@ new_york_city.csv <br/>
 washington.csv
 
 ### Credits
-This program is made following the instructions by [Programming for Data Science Nanodegree](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+This program is made following the instructions by [Udacity's Programming for Data Science Nanodegree](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104)
