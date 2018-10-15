@@ -31,8 +31,8 @@ The program will ask user which city's data he/she want's to explore and then th
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
-chicago.csv
-new_york_city.csv
+chicago.csv <br/>
+new_york_city.csv <br/>
 washington.csv
 
 ### Credits
