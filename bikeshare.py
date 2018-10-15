@@ -212,7 +212,8 @@ def main():
             raw_data = input('\nWould you like to see raw data? Enter yes or no.\n')
 
             if raw_data.lower() == 'yes':
-                print(df.head())
+                number_of_rows = input('\nHow many rows of data would you like to see. Enter an integer.\n')
+                print(df.head(int(number_of_rows)))
 
             else:
                 print('\nPlease give a valid answer.')
